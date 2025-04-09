@@ -44,7 +44,7 @@ The tasks provided in the simulation and our solutions are as follows:
 
 ## Project Structure
 ```
-JPMC-Forage
+root/
 ├── Data
 │   ├── Loan_Data.csv
 │   └── Nat_Gas.csv
